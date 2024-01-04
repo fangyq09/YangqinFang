@@ -12,19 +12,15 @@ redirect_from:
 
 教育背景
 ======
-- 2006年 - 2010年， 本科， 清华大学
-- 2010年 - 2011年， 硕士， 清华大学
-- 2011年 - 2012年， 硕士， 巴黎十一大
-- 2013年 - 2015年， 博士， 巴黎十一大
+- 2006年 - 2010年， 数学本科， 清华大学
+- 2010年 - 2011年， 数学硕士， 清华大学
+- 2011年 - 2012年， 数学硕士， 巴黎十一大
+- 2013年 - 2015年， 数学博士， 巴黎十一大
 
 工作背景
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+1. 2015 - 2017， 马克斯普朗克研究所之爱因斯坦所，博士后
+2. 2017 - 2021， 华中科技大学数学与统计学院，副教授
 
 Site-wide configuration
 ------
