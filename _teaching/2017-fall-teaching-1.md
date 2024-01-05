@@ -1,8 +1,8 @@
 ---
-title: "微积分"
+title: "微积分("
 collection: teaching
 type: "本科课程"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2014-fall-teaching-1
 venue: "华中科技大学"
 date: 2017-10-01
 location: "武汉"
