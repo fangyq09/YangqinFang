@@ -16,7 +16,7 @@ author_profile: true
 - *Hölderregularity at boundary of two dimensional sliding almost minimal sets*, Adv. Calc. Var. 11(1), 2018.
 - *Existence of Minimizers for the Reifenberg Plateau Problem*, Ann. Scuola Norm. Sup. Pisa Cl. Sci.,Vol. XVI, issue 3 (2016).
 
-专利
+Patents
 ---
 
 *High-speed stereo 3D multimodal imaging system and method* (with F. Wang), Granted Invention Patent in China (CN 201911040698.9) and U.S.	international Patent in process of application.
