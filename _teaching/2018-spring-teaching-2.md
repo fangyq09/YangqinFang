@@ -1,12 +1,12 @@
 ---
 title: "微积分（二）"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
+type: "本科课程"
+permalink: /teaching/2018-spring-teaching-2
 venue: "华中科技大学"
 date: 2018-02-01
 location: "武汉"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+大学一年级下半学期工科微积分课程。
 
