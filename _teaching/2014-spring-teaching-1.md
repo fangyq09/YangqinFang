@@ -1,12 +1,12 @@
 ---
-title: "微积分"
+title: "微积分一"
 collection: teaching
-type: "Undergraduate course"
+type: "本科课程"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2017-01-01
-location: "City, Country"
+venue: "华中科技大学"
+date: 2017-09-01
+location: "武汉"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+大学一年级工科微积分课程。
 
