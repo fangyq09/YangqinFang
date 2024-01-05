@@ -1,5 +1,5 @@
 ---
-title: "微积分("
+title: "微积分（一）"
 collection: teaching
 type: "本科课程"
 permalink: /teaching/2014-fall-teaching-1
