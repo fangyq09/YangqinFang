@@ -7,6 +7,7 @@ redirect_from:
   - /resume
 ---
 
+
 {% include base_path %}
 
 I received my Ph.D in mathematics from Université Paris-Sud XI, followed by two years of postdoc research in Germany. Thereafter, I worked as 
