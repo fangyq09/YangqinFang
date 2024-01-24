@@ -1,6 +1,6 @@
 ---
 layout: archive：
-title: ""
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,11 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+I received my Ph.D in mathematics from Université Paris-Sud \RomN{11}, 
+followed by two years of postdoc research in Germany. Thereafter, I worked as 
+an permanent associate professor at a university in China. Due to the terrible
+environment there, I resigned from my position and relocated to Madrid.
 
 Education
 ======
