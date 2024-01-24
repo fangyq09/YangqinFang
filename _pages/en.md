@@ -4,7 +4,7 @@ title: "Personal Background"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
-  - /about/
+  - /en/
   - /en.html
 ---
 
