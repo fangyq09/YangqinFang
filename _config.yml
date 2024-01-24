@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "方扬钦/个人主页"
 title_separator          : "-"
-name                     : &name "方扬钦"
+name                     : &name "方扬钦（Yangqin Fang）"
 description              : &description "personal description"
 url                      : https://fangyq09.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
