@@ -11,8 +11,8 @@ Education
 ======
 - 2006 - 2010, Bachelor of Mathematics, Tsinghua University
 - 2010 - 2011, Master of Mathematics, Tsinghua University
-- 2011 - 2012, Master of Mathematics, Paris XI University
-- 2013 - 2015, Ph.D. in Mathematics, Paris XI University
+- 2011 - 2012, Master of Mathematics, Paris-Sud XI University
+- 2013 - 2015, Ph.D. in Mathematics, Paris-Sud XI University
 
 Work Experience
 ======
