@@ -1,11 +1,8 @@
 ---
-permalink: /
+permalink: /en/
 title: "Personal Background"
 excerpt: "About me"
 author_profile: true
-redirect_from: 
-  - /en/
-  - /en.html
 ---
 
 I was born in a picturesque small village nestled in the Qinling-Daba Mountains of China, and I grew up there. I spent wonderful undergraduate years at Tsinghua University, completed my doctoral studies in the romantic city of Paris, wandered in Berlin for two years, and then worked as an associate professor at Huazhong University of Science and Technology for four years. After various journeys, I currently reside in Madrid.
