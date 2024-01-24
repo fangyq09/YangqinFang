@@ -1,7 +1,7 @@
 ---
+layout: archive
+title: "About me"
 permalink: /en/
-title: "Personal Background"
-excerpt: "About me"
 author_profile: true
 ---
 
