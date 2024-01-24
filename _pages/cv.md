@@ -66,8 +66,8 @@ Talks
 
 Teaching
 ======
-- 2022 summer, Served as a Math Olympiad coach\\
-- 2020 fall, Lecturer for Measure Theory, 4 hours per week\\
-- 2017, 2019 fall, Lecturer for Calculus I, 6 hours per week \\
+- 2022 summer, Served as a Math Olympiad coach
+- 2020 fall, Lecturer for Measure Theory, 4 hours per week
+- 2017, 2019 fall, Lecturer for Calculus I, 6 hours per week
 - 2018, 2019 spring, Lecturer for Calculus I, 6 hours per week 
   
