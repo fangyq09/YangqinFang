@@ -28,7 +28,7 @@ Work experience
 Grants
 ======
 - The existence and regularity of solutions to Plateau's problem, (PI, 100%), the National Natural Science Foundation of China (No: 11801198), 2019 - 2021
-- Plateau's problem and tangent structure analysis, (Co-Inv, 20\%), the National Natural Science Foundation of China (No: 11871090), 2019 - 2022
+- Plateau's problem and tangent structure analysis, (Co-Inv, 20%), the National Natural Science Foundation of China (No: 11871090), 2019 - 2022
 
 Publications
 ======
