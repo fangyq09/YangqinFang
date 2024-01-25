@@ -19,7 +19,7 @@ Education
 
 Work Experience
 ======
-- 2015 - 2017, The Max Planck Institute for Gravitational Physics (Albert Einstein Institute), Postdoctoral Researcher
+- 2015 - 2017, The Max Planck Institute for Gravitational Physics (Albert Einstein Institute), Junior scientist
 - 2017 - 2021, School of Mathematics and Statistics, Huazhong University of Science and Technology, Associate Professor
 
 Research interest
