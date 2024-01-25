@@ -24,7 +24,7 @@ Work Experience
 
 Research interest
 ------
-My expertise lies in the field of geometric measure theory, with a primary focus on the existence of Plateau problems and the regularity of minimal sets. The Plateau problem, originating in the 18th century, remained a profound challenge until the breakthroughs in the 20th century. It has evolved into a crucial discipline known as geometric measure theory. To this day, the existence of Plateau problems and the regularity of minimal sets remain central topics in geometric measure theory, with the majority still unresolved.
+My expertise lies in the field of geometric measure theory, with a primary focus on the existence of Plateau problems and the regularity of minimal sets. The Plateau problem, originating in the 18th century, remained a profound challenge until the breakthroughs in the 20th century. It has evolved into a crucial discipline known as geometric measure theory. To this day, the existence of Plateau problems and the regularity of minimal sets remain central topics in geometric measure theory, with the majority still open.
 
 Teaching
 ------
