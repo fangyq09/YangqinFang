@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I was born in a picturesque small village nestled in the Qinling-Daba Mountains of China, and I grew up there. I spent wonderful undergraduate years at Tsinghua University, completed my doctoral studies in the romantic city, Paris, stayed in Potsdam as a postdoc for nearly two years, and then worked as an associate professor at Huazhong University of Science and Technology for four years. After various journeys, I currently reside in Madrid.
+I was born in a picturesque small village nestled in the Qinling-Daba Mountains of China, and I grew up there. I spent wonderful undergraduate years at Tsinghua University, then completed my doctoral studies in the romantic city, Paris, subsequently stayed in Potsdam as a postdoc for nearly two years, and then worked as an associate professor at Huazhong University of Science and Technology for four years. After various journeys, I currently reside in Madrid.
 
 Education
 ======
