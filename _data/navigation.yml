@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "English"
-    url: /en/ 
+  - title: "中文版"
+    url: /zh/ 
 
   - title: "Publications"
     url: /publications/
