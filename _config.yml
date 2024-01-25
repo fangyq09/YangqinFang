@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "方扬钦/个人主页"
+title                    : "Yangqin Fang/方扬钦"
 title_separator          : "-"
-name                     : &name "方扬钦（Yangqin Fang）"
+name                     : &name "Yangqin Fang"
 description              : &description "personal description"
-url                      : https://fangyq09.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://fangyq09.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "fangyq09/fangyq09.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "方扬钦（Yangqin Fang）"
+  name             : "Yangqin Fang"
   avatar           : "profile.png"
   bio              : ""
   location         : "Madrid"
