@@ -8,8 +8,6 @@ redirect_from:
 ---
 
 
-{% include base_path %}
-
 I received my Ph.D in mathematics from Université Paris-Sud XI, followed by two years of postdoc research in Germany. Thereafter, I worked as 
 an permanent associate professor at a university in China. Due to the terrible environment there, I resigned from my position and relocated to Madrid.
 
@@ -22,8 +20,9 @@ Education
 
 Work experience
 ======
-- 2015 - 2017: Junior scientist, Max-Planck-Institut für Gravitationsphysik (AEI),Potsdam-Golm, Germany
-- 2017 - 2021: Associate professor, Department of Mathematics and Statistics, Huazhong University of Science and Technology, Wuhan, China
+- 2015 - 2017, Junior scientist, Max-Planck-Institut für Gravitationsphysik (AEI),Potsdam-Golm, Germany
+- 2010 - 2011, Teaching assistant, Tsinghua University, Beijing, China
+- 2017 - 2021, Associate professor, Department of Mathematics and Statistics, Huazhong University of Science and Technology, Wuhan, China
 
 Grants
 ======
@@ -44,7 +43,7 @@ Publications
 
 Patents
 ===
-- *High-speed stereo 3D multimodal imaging system and method* (with F. Wang), Granted Invention Patent in China (CN 201911040698.9) and U.S.	international Patent in process of application.
+- *High-speed stereo 3D multimodal imaging system and method* (with F. Wang), Granted Invention Patent in China (CN 201911040698.9) and U.S. international Patent in process of application.
 
 Talks
 ======
