@@ -98,7 +98,6 @@
   vertical-align: center;
   padding-left: 15px;
   padding-right: 25px;
-  text-align: center; /* 居中文本 */
   line-height: 1;
 
   @include breakpoint($large) {
@@ -106,6 +105,7 @@
     width: 100%;
     padding-left: 0;
     padding-right: 0;
+    text-align: center; /* 居中文本 */
   }
 }
 
@@ -132,23 +132,12 @@
 }
 
 .author__urls-wrapper {
-  /*position: relative;
   display: table-cell;
-  vertical-align: middle;*/
-   
-  display: flex;
-  flex-direction: column;
-  align-items: center; /* 居中每一行的内容 */
-   
+  vertical-align: middle;
   font-family: $sans-serif;
   z-index: 10;
   position: relative;
   cursor: pointer;
-   
-  li {
-    list-style: none; /* 去除列表样式 */
-    margin: 10px 0; /* 调整每行的间距 */
-  }
 
   li:last-child {
     a {
@@ -159,6 +148,12 @@
   @include breakpoint($large) {
     /*display: block;*/
      display: flex;
+     flex-direction: column;
+     align-items: center; /* 居中每一行的内容 */
+     li {
+       list-style: none; /* 去除列表样式 */
+       margin: 10px 0; /* 调整每行的间距 */
+     }
   }
 
   button {
