@@ -98,6 +98,7 @@
   vertical-align: top;
   padding-left: 15px;
   padding-right: 25px;
+  text-align: center; /* 居中文本 */
   line-height: 1;
 
   @include breakpoint($large) {
