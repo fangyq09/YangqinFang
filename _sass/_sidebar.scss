@@ -132,9 +132,14 @@
 }
 
 .author__urls-wrapper {
-  position: relative;
+  /*position: relative;
   display: table-cell;
-  vertical-align: middle;
+  vertical-align: middle;*/
+   
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* 居中每一行的内容 */
+   
   font-family: $sans-serif;
   z-index: 10;
   position: relative;
